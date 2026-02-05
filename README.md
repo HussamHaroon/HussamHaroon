@@ -1,5 +1,3 @@
-# Hi, I'm Hussam Haroon. 👋
-
 I am a Software Engineer (Class of 2028) focused on **High-Performance Computing**, **Backend Systems**, and **Data Structures**.  
 I build software that manages complex workflows and data simulation.
 
